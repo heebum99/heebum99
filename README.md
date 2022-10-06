@@ -3,4 +3,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heebum9955)](https://solved.ac/heebum9955/)
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heebum99&hide=python&layout=compact" />
----
