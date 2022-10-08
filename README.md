@@ -1,5 +1,20 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heebum99&theme=vue-dark)](https://github.com/heebum99/github-readme-stats)
----
+# 반갑습니다!👋
+
+## Contact ☎️
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheebum99&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+<a href="https://www.instagram.com/h2bum_99/"><img src="https://img.shields.io/badge/h2bum_99-E4405F?style=plastic&logo=Instagram&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/kik995500@naver.com-EA4335?style=plastic&logo=Gmail&logoColor=FFFFFF"/>
+
+## Language 📖
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C%2b%2b-00599C?style=flat&logo=C%2b%2b&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=FFFFFF"/>  
+
+## Tool 🛠️
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=FFFFFF"/> 
+
+## Spec 💪
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heebum99&theme=vue-dark&show_icons=true)](https://github.com/heebum99/github-readme-stats)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heebum9955)](https://solved.ac/heebum9955/)
----
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heebum99&hide=python&layout=compact" />
