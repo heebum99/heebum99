@@ -21,6 +21,8 @@
 
 <!-- IDE의 활동이 기록 -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C459%20hrs%2010%20mins-blue)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heebum99)](https://wakatime.com/@heebum99)
 <!--END_SECTION:waka-->
 
