@@ -21,6 +21,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heebum99&layout=compact)](https://github.com/heebum99/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heebum99)](https://github.com/heebum99/github-readme-stats)
+<!-- IDE의 활동이 기록 -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heebum99)](https://wakatime.com/@heebum99)
+
+<!-- 배경화면 트로피 설정 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=heebum99&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
