@@ -20,7 +20,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heebum99&layout=compact)](https://github.com/heebum99/github-readme-stats)
 
 <!-- IDE의 활동이 기록 -->
+<!--START_SECTION:waka-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heebum99)](https://wakatime.com/@heebum99)
+<!--END_SECTION:waka-->
+
 
 ## GitHub Profile Trophy 🏆
 <!-- 배경화면 트로피 설정 -->
