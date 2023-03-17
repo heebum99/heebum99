@@ -21,3 +21,6 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
+          SHOW_LOC_CHART: "False"
+          DEBUG_LOGGING: "False"
+          IGNORED_REPOS: "False"
