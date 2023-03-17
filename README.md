@@ -24,7 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heebum99&layout=compact)](https://github.com/heebum99/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2057%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -62,7 +62,7 @@ Windows                  10 mins             ███████████�
 ```
 
 
- Last Updated on 17/03/2023 03:57:52 UTC
+ Last Updated on 17/03/2023 12:34:39 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
