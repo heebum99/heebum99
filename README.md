@@ -17,7 +17,6 @@
 ## GitHub Profile Trophy 🏆
 <!-- 배경화면 트로피 설정 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=heebum99&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
 
 ## Spec 💪
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heebum9955)](https://solved.ac/heebum9955/)
@@ -65,3 +64,5 @@ Windows                  10 mins             ███████████�
 
  Last Updated on 17/03/2023 00:53:37 UTC
 <!--END_SECTION:waka-->
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
