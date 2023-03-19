@@ -6,7 +6,7 @@
 ## Contact ☎️
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheebum99&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 <a href="https://www.instagram.com/h2bum_99/"><img src="https://img.shields.io/badge/h2bum_99-E4405F?style=plastic&logo=Instagram&logoColor=FFFFFF"/></a>
-<a href="heebum99.github.io"><img src="https://img.shields.io/badge/Github.io-181717?style=flat&logo=Github&logoColor=FFFFFF"/> </a>
+<a href="https://heebum99.github.io"><img src="https://img.shields.io/badge/Github.io-181717?style=flat&logo=Github&logoColor=FFFFFF"/> </a>
 <img src="https://img.shields.io/badge/kik995500@naver.com-EA4335?style=plastic&logo=Gmail&logoColor=FFFFFF"/> 
 
 ## Skills 📖
