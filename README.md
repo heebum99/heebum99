@@ -27,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heebum99&layout=compact)](https://github.com/heebum99/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -51,7 +51,7 @@ Windows                  32 hrs 9 mins       ███████████�
 ```
 
 
- Last Updated on 29/03/2023 18:40:24 UTC
+ Last Updated on 30/03/2023 18:33:52 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
