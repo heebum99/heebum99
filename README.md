@@ -29,20 +29,17 @@
 
 ```text
 💬 Programming Languages: 
-Java                     13 mins             █████████████████░░░░░░░░   67.74 % 
-Properties               5 mins              ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/06/2023 18:36:45 UTC
+ Last Updated on 25/06/2023 18:36:39 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
