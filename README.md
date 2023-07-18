@@ -23,24 +23,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heebum99&layout=compact)](https://github.com/heebum99/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2026%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     17 hrs 40 mins      █████████████████████████   99.60 % 
-HTTP Request             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Java                     19 hrs 37 mins      █████████████████████████   99.64 % 
+HTTP Request             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-IntelliJ                 17 hrs 45 mins      █████████████████████████   100.00 % 
+IntelliJ                 19 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2023 18:36:25 UTC
+ Last Updated on 18/07/2023 18:36:34 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
