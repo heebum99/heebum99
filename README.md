@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariaDB&logoColor=white">   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=FFFFFF"/>
 
 ## Experience :heavy_check_mark:
-* **한국공학대학교(전 한국산업기술대학교) IT경영학과 전공 (2018.03 ~ )**
-* **컴퓨터공학과 복수전공 (2022.03 ~ )**
-* **씨부엉 프로그래밍 동아리 활동 (2022.09 ~ )**
+* **한국공학대학교(전 한국산업기술대학교) IT경영학과 전공 (2018.03 ~ 2024.02)**
+* **컴퓨터공학과 복수전공 (2022.03 ~ 2024.02)**
+* **씨부엉 프로그래밍 동아리 활동 (2022.09 ~ 2023.08)**
 * **Naver Connect 1784 스쿨혁명 SW/AI 교육 대학생 멘토 활동 (2023.01 ~ 2023.02)**
 
 ## Spec 💪
