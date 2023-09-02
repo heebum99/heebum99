@@ -23,25 +23,27 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heebum99&layout=compact)](https://github.com/heebum99/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%201%20min-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 47 mins       █████████████████████████   98.35 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Java                     4 hrs 52 mins       ████████████████████████░   97.70 % 
+Gradle                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-IntelliJ                 2 hrs 50 mins       █████████████████████████   100.00 % 
+IntelliJ                 4 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/09/2023 18:33:52 UTC
+ Last Updated on 02/09/2023 18:33:48 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
