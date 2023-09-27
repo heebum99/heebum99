@@ -29,18 +29,17 @@
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 18 mins       █████████████████████████   100.00 % 
-JAVA                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JAVA                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 3 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/09/2023 18:34:58 UTC
+ Last Updated on 27/09/2023 18:35:11 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
