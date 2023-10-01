@@ -29,7 +29,7 @@
 
 ```text
 💬 Programming Languages: 
-JAVA                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -39,7 +39,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/09/2023 18:34:49 UTC
+ Last Updated on 01/10/2023 18:33:47 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
