@@ -25,8 +25,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2036%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 23/11/2023 18:34:17 UTC
+```text
+💬 Programming Languages: 
+Java                     58 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+IntelliJ                 58 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  58 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/11/2023 18:34:17 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
