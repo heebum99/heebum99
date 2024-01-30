@@ -16,6 +16,9 @@
 * **컴퓨터공학과 복수전공 (2022.03 ~ 2024.02)**
 * **씨부엉 프로그래밍 동아리 활동 (2022.09 ~ 2023.08)**
 * **Naver Connect 1784 스쿨혁명 SW/AI 교육 대학생 멘토 활동 (2023.01 ~ 2023.02)**
+* **소만사 정보보안 SW솔루션 기술지원 엔지니어 (2024.02 ~ )**
+
+## Project Description 
 
 ## Spec 💪
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heebum9955)](https://solved.ac/heebum9955/)
@@ -25,21 +28,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2044%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 29/01/2024 18:33:27 UTC
-<!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
