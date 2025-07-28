@@ -68,10 +68,10 @@
 
 Kafka, Redis, SSE 등 실시간 처리 기술을 활용해 강의 예약부터 출석, 수료증 발급까지 자동화된 학습 관리 기능을 제공하는 온/오프라인 통합 교육 플랫폼입니다.
 
-- Kafka + SSE 기반 실시간 알림 및 Redis 유실 복구 처리
-- 출석 자동화: 스케줄러 + Redis TTL 기반 출석 코드 생성 및 검증
+- Kafka + SSE 기반 실시간 알림 및 Redis를 통한 메시지 유실 복구 처리
+- 출석 자동화: Scheduler + Redis TTL 기반 출석 코드 생성 및 검증
 - 관리자 대시보드 및 수료증 PDF 자동 발급 기능 구현
-- No-Offset 무한스크롤, Batch 처리로 대용량 성능 최적화
+- No-Offset 무한스크롤, Batch 처리로 대용량 데이터 성능 최적화
 
 📎 [ERD](https://www.erdcloud.com/d/zzaCaoydnZ6jeQE8x) / [Notion](https://www.notion.so/OffCourse-20d354b95b4e81d08de7fe8465747609?pvs=21) / [Figma](https://www.figma.com/design/JBE8FZzpHHeMi2IJySFcaR/OffCourse?node-id=0-1) / [Jira](https://secondproject.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
 
