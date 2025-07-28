@@ -36,7 +36,47 @@
 
 ---
 
-## 📝 Project Description
+## 📁 Project Description
+
+<details>
+<summary><strong>📚 GoBookE (2025.04 ~ 2025.05) - 도서 기반 학습 커뮤니티 & 공간 예약 플랫폼</strong></summary>
+
+<br>
+
+[👉 GitHub Repository](https://github.com/GoBookEE/GoBookEE)
+
+도서 리뷰 커뮤니티와 학습 공간 예약을 통합한 플랫폼으로, 학습자와 공간 제공자를 연결하고 '고북이 속도'를 통해 신뢰 기반의 학습 환경을 조성합니다.
+
+- 장소 등록/예약 시스템 구현 (FullCalendar 연동)
+- 장소명·주소 기반 검색 및 이미지 업로드 기능
+- 회원가입 시 이메일 인증 로직 (SMTP) 구현
+- DB 정규화 및 협업 환경(JIRA/Notion/GitHub) 설계 주도
+
+📎 [ERD](https://www.erdcloud.com/d/TdJzzE5YwayiPaWKi) / [Notion](https://www.notion.so/Go-Book-E-1d003dd920b680f0b9c7d868c030d7e9?pvs=21) / [Figma](https://www.figma.com/design/nr4XlXFIwaUZmoLqCL2wWi/%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=210-137) / [Jira](https://chunjaefs11.atlassian.net/jira/software/projects/KAN/boards/1)
+
+</details>
+
+
+
+
+<details>
+<summary><strong>🎓 OffCourse (2025.06 ~ 2025.07) - 실시간 알림 기반 강의 플랫폼</strong></summary>
+
+<br>
+
+[👉 GitHub Repository](https://github.com/OfffCourse/OffCourse)
+
+Kafka, Redis, SSE 등 실시간 처리 기술을 활용해 강의 예약부터 출석, 수료증 발급까지 자동화된 학습 관리 기능을 제공하는 온/오프라인 통합 교육 플랫폼입니다.
+
+- Kafka + SSE 기반 실시간 알림 및 Redis 유실 복구 처리
+- 출석 자동화: 스케줄러 + Redis TTL 기반 출석 코드 생성 및 검증
+- 관리자 대시보드 및 수료증 PDF 자동 발급 기능 구현
+- No-Offset 무한스크롤, Batch 처리로 대용량 성능 최적화
+
+📎 [ERD](https://www.erdcloud.com/d/zzaCaoydnZ6jeQE8x) / [Notion](https://www.notion.so/OffCourse-20d354b95b4e81d08de7fe8465747609?pvs=21) / [Figma](https://www.figma.com/design/JBE8FZzpHHeMi2IJySFcaR/OffCourse?node-id=0-1) / [Jira](https://secondproject.atlassian.net/jira/software/projects/SCRUM/boards/1/timeline)
+
+</details>
+
 
 
 ---
