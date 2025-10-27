@@ -60,7 +60,7 @@
 
 
 <details>
-<summary><strong>🎓 OffCourse (2025.06 ~ 2025.07) - 실시간 알림 기반 강의 플랫폼</strong></summary>
+<summary><strong>🎓 OffCourse (2025.06 ~ 2025.07) - 온/오프라인 강의 플랫폼</strong></summary>
 
 <br>
 
